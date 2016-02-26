@@ -1,0 +1,1 @@
+Java project demonstrating shopping cart concept
